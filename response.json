@@ -1,0 +1,32 @@
+{
+  "people": [
+    {
+      "name": "Sarah Chen",
+      "phone": "+442078154632",
+      "location": "London",
+      "image": "https://dog.ceo/api/breeds/image/random",
+      "description": "Originally from Singapore, I found my way to London's bustling financial district five years ago. With a background in fintech and a passion for connecting people across cultures, I've made it my mission to bridge the gap between Eastern and Western business practices..."
+    },
+    {
+      "name": "Marcus O'Sullivan",
+      "phone": "+61398765432",
+      "location": "Melbourne",
+      "image": "https://dog.ceo/api/breeds/image/random",
+      "description": "G'day! After spending a decade as a marine biologist in Ireland, I decided to trade the Atlantic for the Pacific and moved to beautiful Melbourne. My journey from studying coral reefs to establishing community environmental programs has been nothing short of extraordinary..."
+    },
+    {
+      "name": "Aisha Patel",
+      "phone": "+16478889999",
+      "location": "Toronto",
+      "image": "https://dog.ceo/api/breeds/image/random",
+      "description": "Born in Mumbai but raised in Vancouver, I've always straddled two worlds. Now calling Toronto home, I've spent the last eight years developing sustainable fashion initiatives that combine traditional South Asian craftsmanship with modern Canadian design sensibilities..."
+    },
+    {
+      "name": "Lars Andersen",
+      "phone": "+4745678901",
+      "location": "Oslo",
+      "image": "https://dog.ceo/api/breeds/image/random",
+      "description": "From the fjords of western Norway to the innovative tech scene of Oslo, my journey has been as winding as our country's coastline. As a former professional skier turned software developer, I've learned that the precision required for sports translates perfectly..."
+    }
+  ]
+}
